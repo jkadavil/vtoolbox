@@ -1,0 +1,83 @@
+1A4 Chrysler MPV
+1A8 Chrysler SUV
+1B4 Dodge MPV
+1B7 Dodge truck
+1BB Blue Bird MPV
+1F1 Ford SUV
+1FA Ford car
+1FM Ford MPV
+1FT Ford truck
+1G1 Chevrolet car
+1G2 Pontiac car
+1G3 Oldsmobile car
+1G4 Buick car
+1G5 GMC MPV
+1G6 Cadillac car
+1G8 Chevrolet MPV
+1G9 Google Waymo
+1GC Chevrolet truck
+1GG Isuzu pickup truck
+1GH Oldsmobile MPV
+1GK GMC MPV
+1GM Pontiac MPV
+1GN Cherolet MPV
+1GT GMC truck
+1GY Cadillac SUV
+1HG Honda car
+1J4 Jeep SUV
+1J7 Jeep truck
+1L1 Lincoln car
+1ME Mercury car
+1N4 Nissan truck
+1NX Toyota car
+1P3 Plymouth car
+1P4 Plymouth MPV
+1V1 Volkswagen truck
+1V2 Volkswagen SUV
+1VW Volkswagen car
+1Z3 Mitsubishi Raider
+2HN Acura SUV
+2J4 Jeep Wrangler
+2LM Lincoln SUV
+2MR Mercury MPV
+2S2 Suzuki car
+2S3 Suzuki SUV
+2T2 Lexus SUV
+2T3 Toyota SUV
+2V4 Volkswagen Routan
+3E4 Fiat SUV
+3N1 Nissan car
+3N8 Nissan SUV
+3TM Toyota Truck
+4A3 Mitsubishi Motors car
+4A4 Mitsubishi Motors SUV
+4F2 Mazda SUV
+4F4 Mazda truck
+4G3 Toyota Cavalier
+4G5 General Motors EV1
+4M2 Mercury SUV
+4N2 Nissan Quest
+4NU Isuzu Ascender
+4S1 Isuzu truck
+4S2 Isuzu SUV
+4S3 Subaru car
+4S4 Subaru SUV
+4S6 Honda SUV
+4US BMW car
+4V4 Volvo truck
+5GN Hummer H3T
+5GR Hummer H2
+5GT Hummer H3
+5N3 Infiniti SUV
+5NM Hyundai SUV
+5NP Hyundai car
+5NT Hyundai truck
+5UX BMW SUV
+5XX Kia car
+5Y2 Pontiac Vibe
+5YJ Tesla
+7G2 Tesla Cybertruck
+7FC Rivian truck
+7PD Rivian SUV
+7SA Tesla SUV
+7Z0 Zoox

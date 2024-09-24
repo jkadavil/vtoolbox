@@ -1,0 +1,87 @@
+I am here to buy!
+2000 Orange Pontiac MPV, 344729 miles, 120.00
+2000 Yellow Isuzu truck, 338611 miles, 174.00
+2000 Orange Ford car, 312972 miles, 131.00
+2000 Blue Oldsmobile MPV, 2919 miles, 191.50
+2000 Black Isuzu pickup truck, 32840 miles, 185.00
+2000 White Volkswagen SUV, 367904 miles, 197.50
+2000 Oliver BMW car, 341109 miles, 135.00
+2000 Yellow Dodge truck, 328520 miles, 129.00
+2000 Lime Dodge truck, 338664 miles, 112.50
+2000 Yellow GMC MPV, 37177 miles, 151.50
+2000 Oliver Hyundai car, 323700 miles, 161.50
+2000 Oliver Fiat SUV, 304949 miles, 194.50
+2000 Lime Mercury MPV, 364465 miles, 124.50
+2000 Orange Nissan car, 362418 miles, 112.00
+2000 Red Chevrolet car, 302066 miles, 155.00
+2000 Orange Volkswagen SUV, 332631 miles, 125.50
+2000 Red Subaru car, 346391 miles, 184.50
+2000 Yellow Oldsmobile car, 348731 miles, 140.00
+2000 Lime Ford SUV, 329737 miles, 193.00
+2000 Yellow Plymouth car, 37295 miles, 142.00
+2000 Yellow GMC MPV, 334824 miles, 177.50
+2000 Green Blue Bird MPV, 29210 miles, 129.00
+2000 White Hummer H2, 356622 miles, 108.00
+2000 Yellow Nissan car, 356643 miles, 104.50
+2000 Black Chevrolet car, 366594 miles, 131.00
+2000 Blue Blue Bird MPV, 306092 miles, 120.50
+2000 Yellow Suzuki car, 353736 miles, 106.00
+2000 White GMC MPV, 324563 miles, 114.00
+2000 Oliver Ford MPV, 369432 miles, 163.50
+2000 Green Infiniti SUV, 325732 miles, 180.50
+2000 Red Oldsmobile MPV, 323189 miles, 132.00
+2000 Blue Fiat SUV, 362430 miles, 133.50
+2000 Red BMW car, 305324 miles, 138.00
+2000 Black Volkswagen truck, 315948 miles, 172.00
+2000 Silver Isuzu Ascender, 30505 miles, 164.00
+2000 Silver Rivian SUV, 312115 miles, 113.00
+2000 Red Chevrolet car, 302066 miles, 155.00
+2000 Red Subaru car, 346391 miles, 184.50
+2000 Red Oldsmobile MPV, 323189 miles, 132.00
+2000 Red BMW car, 305324 miles, 138.00
+Transaction 1: 2000 Red Chevrolet car bought at $155.00
+I am here to sell!
+
+------Cars That Fit Specifications------
+Transaction 2: 2000 Red Dodge MPV bought at $34.00
+I am here to buy!
+2000 Orange Pontiac MPV, 344729 miles, 120.00
+2000 Yellow Isuzu truck, 338611 miles, 174.00
+2000 Orange Ford car, 312972 miles, 131.00
+2000 Blue Oldsmobile MPV, 2919 miles, 191.50
+2000 Black Isuzu pickup truck, 32840 miles, 185.00
+2000 White Volkswagen SUV, 367904 miles, 197.50
+2000 Oliver BMW car, 341109 miles, 135.00
+2000 Yellow Dodge truck, 328520 miles, 129.00
+2000 Lime Dodge truck, 338664 miles, 112.50
+2000 Yellow GMC MPV, 37177 miles, 151.50
+2000 Oliver Hyundai car, 323700 miles, 161.50
+2000 Oliver Fiat SUV, 304949 miles, 194.50
+2000 Lime Mercury MPV, 364465 miles, 124.50
+2000 Orange Nissan car, 362418 miles, 112.00
+2000 Orange Volkswagen SUV, 332631 miles, 125.50
+2000 Red Subaru car, 346391 miles, 184.50
+2000 Yellow Oldsmobile car, 348731 miles, 140.00
+2000 Lime Ford SUV, 329737 miles, 193.00
+2000 Yellow Plymouth car, 37295 miles, 142.00
+2000 Yellow GMC MPV, 334824 miles, 177.50
+2000 Green Blue Bird MPV, 29210 miles, 129.00
+2000 White Hummer H2, 356622 miles, 108.00
+2000 Yellow Nissan car, 356643 miles, 104.50
+2000 Black Chevrolet car, 366594 miles, 131.00
+2000 Blue Blue Bird MPV, 306092 miles, 120.50
+2000 Yellow Suzuki car, 353736 miles, 106.00
+2000 White GMC MPV, 324563 miles, 114.00
+2000 Oliver Ford MPV, 369432 miles, 163.50
+2000 Green Infiniti SUV, 325732 miles, 180.50
+2000 Red Oldsmobile MPV, 323189 miles, 132.00
+2000 Blue Fiat SUV, 362430 miles, 133.50
+2000 Red BMW car, 305324 miles, 138.00
+2000 Black Volkswagen truck, 315948 miles, 172.00
+2000 Silver Isuzu Ascender, 30505 miles, 164.00
+2000 Silver Rivian SUV, 312115 miles, 113.00
+2000 Red Dodge MPV, 200000 miles, 34.00
+2000 Red Subaru car, 346391 miles, 184.50
+2000 Red Oldsmobile MPV, 323189 miles, 132.00
+2000 Red BMW car, 305324 miles, 138.00
+2000 Red Dodge MPV, 200000 miles, 34.00
